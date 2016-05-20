@@ -1,0 +1,13 @@
+{
+  "name": "private-it/yii2-log-target-email",
+  "description": "",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "PrivateIT\\log\\target\\email\\": "src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  }
+}
